@@ -39,9 +39,12 @@ body {
   letter-spacing: 10px;
   width: 100%;
   margin-bottom: 20px;
-  text-shadow: -4px -4px 0 #934f6e, 4px -4px 0 #934f6e, -4px 4px 0 #934f6e,
+  text-shadow:
+    -4px -4px 0 #934f6e,
+    4px -4px 0 #934f6e,
+    -4px 4px 0 #934f6e,
     4px 4px 0 #934f6e;
-  color: hsl(333, 100%, 85%);
+  color: hsl(333, 95%, 24%);
 }
 
 .character img {
@@ -52,7 +55,10 @@ body {
 .timer {
   font-size: 60px;
   font-family: "Jersey 10";
-  text-shadow: -3px -3px 0 #934f6e, 3px -3px 0 #934f6e, -3px 3px 0 #934f6e,
+  text-shadow:
+    -3px -3px 0 #934f6e,
+    3px -3px 0 #934f6e,
+    -3px 3px 0 #934f6e,
     3px 3px 0 #934f6e;
   transform: scale(1.4);
   margin-top: -50px;
